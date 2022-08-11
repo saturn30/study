@@ -10,4 +10,6 @@
 
 [쿠버네티스 안내서](./dev/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4_%EC%95%88%EB%82%B4%EC%84%9C)
 
+[확장 가능한 프론트엔드](./dev/%ED%99%95%EC%9E%A5_%EA%B0%80%EB%8A%A5%ED%95%9C_%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C)
+
 [이펙티브 타입스크립트](./dev/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
