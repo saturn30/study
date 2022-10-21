@@ -18,6 +18,8 @@
 
 [이펙티브 타입스크립트](./dev/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
 
+[프로그래머의 뇌](./dev/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98_%EB%87%8C/)
+
 ### ETC
 
 [UI/UX의 10가지 심리학 법칙](./etc/UXUI%EC%9D%98_10%EA%B0%80%EC%A7%80_%EC%8B%AC%EB%A6%AC%ED%95%99_%EB%B2%95%EC%B9%99)
