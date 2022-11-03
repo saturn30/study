@@ -20,6 +20,8 @@
 
 [프로그래머의 뇌](./dev/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98_%EB%87%8C/)
 
+[구글 엔지니어는 이렇게 일한다](./dev/%EA%B5%AC%EA%B8%80_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94_%EC%9D%B4%EB%A0%87%EA%B2%8C_%EC%9D%BC%ED%95%9C%EB%8B%A4/)
+
 ### ETC
 
 [UI/UX의 10가지 심리학 법칙](./etc/UXUI%EC%9D%98_10%EA%B0%80%EC%A7%80_%EC%8B%AC%EB%A6%AC%ED%95%99_%EB%B2%95%EC%B9%99)
