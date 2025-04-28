@@ -25,3 +25,5 @@
 ### ETC
 
 [UI/UX의 10가지 심리학 법칙](./etc/UXUI%EC%9D%98_10%EA%B0%80%EC%A7%80_%EC%8B%AC%EB%A6%AC%ED%95%99_%EB%B2%95%EC%B9%99)
+
+[린 프로덕트 플레이북](./etc/%EB%A6%B0_%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8_%ED%94%8C%EB%A0%88%EC%9D%B4%EB%B6%81)
